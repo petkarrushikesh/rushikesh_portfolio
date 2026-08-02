@@ -85,7 +85,7 @@ class _HeroSectionState extends State<HeroSection> {
                         ),
                         const SizedBox(height: 28),
                         Text(
-                          'I own the Android app lifecycle end-to-end. Shipped 3 commercial apps directly to the Google Play Store—handling BLE synchronization, biometric authentication, global payment gateways, and high-performance clean architecture.',
+                          'I own the Android app lifecycle end-to-end. Shipped 5 commercial apps directly to the Google Play Store—handling BLE synchronization, biometric authentication, global payment gateways, and high-performance clean architecture.',
                           textAlign: isMobile ? TextAlign.center : TextAlign.left,
                           style: TextStyle(
                             color: Colors.white70,
