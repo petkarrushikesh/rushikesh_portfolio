@@ -42,7 +42,7 @@ class ExperienceTimelineSection extends StatelessWidget {
                   isCurrent: true,
                   duties: [
                       'Owned the complete Flutter application lifecycle—from architecture and feature development to testing, debugging, deployment, and Google Play Store releases.'
-                      'Successfully shipped and maintained 3 production mobile applications, integrating Provider state management, RESTful APIs, Firebase Authentication, Cloud Firestore, BLE communication, and Razorpay payment gateway.'
+                      'Successfully shipped and maintained 5 production mobile applications, integrating Provider state management, RESTful APIs, Firebase Authentication, Cloud Firestore, BLE communication, and Razorpay payment gateway.'
 
                   ],
                 ),

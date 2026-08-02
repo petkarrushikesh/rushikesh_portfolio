@@ -67,7 +67,7 @@ class AboutSection extends StatelessWidget {
                           ),
                           const SizedBox(height: 18),
                           const Text(
-                            "I'm a B.Tech graduate in Electronics and Communication who now builds high-performance, real-world Android and Flutter apps for a living. As an Android Developer at Pixelstat eSolutions, I've taken 3 commercial applications from first commit to production releases on the Google Play Store—orchestrating BLE integrations, local secure database layers, payment gateways, and backend endpoints.",
+                            "I'm a B.Tech graduate in Electronics and Communication who now builds high-performance, real-world Android and Flutter apps for a living. As an Android Developer at Pixelstat eSolutions, I've taken 5 commercial applications from first commit to production releases on the Google Play Store—orchestrating BLE integrations, local secure database layers, payment gateways, and backend endpoints.",
                             style: TextStyle(color: Colors.white70, height: 1.6, fontSize: 14),
                           ),
                           const SizedBox(height: 12),
@@ -105,7 +105,7 @@ class AboutSection extends StatelessWidget {
                 runSpacing: 24,
                 alignment: WrapAlignment.center,
                 children: [
-                  _statItem(Icons.phone_iphone, '3+', 'Production Apps', 'Taken from first commit to Play Store', const Color(0xFF3DDC84)),
+                  _statItem(Icons.phone_iphone, '5+', 'Production Apps', 'Taken from first commit to Play Store', const Color(0xFF3DDC84)),
                   _statItem(Icons.bluetooth, 'BLE / IoT', 'Hardware Connected', 'Configure EV chargers over BLE', const Color(0xFF8B7CF6)),
                   _statItem(Icons.layers, 'Clean Arch', 'Modular Scalable', 'BLoC, Repository, local cache cipher', const Color(0xFF3DDC84)),
                   _statItem(Icons.school, 'B.Tech ECE', 'Academic Core', 'Electronics & Communications graduate', const Color(0xFF8B7CF6)),

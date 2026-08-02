@@ -363,7 +363,7 @@ class _PortfolioShellState extends State<PortfolioShell> {
             Padding(
               padding: const EdgeInsets.all(24.0),
               child: SizedBox(
-                width: double.infiniFty,
+                width: double.infinity,
                 child: ElevatedButton(
                   onPressed: () {
                     Navigator.pop(context);
