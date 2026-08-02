@@ -597,6 +597,7 @@ class _PhoneSimulatorState extends State<PhoneSimulator> {
       _eckeMenu(Icons.person, 'Profile'),
       _eckeMenu(Icons.logout, 'Logout'),
     ])),
+
   ]);
 
   Widget _eckeMenu(IconData icon, String label) => Container(
