@@ -138,8 +138,8 @@ class _ContactPortalSectionState extends State<ContactPortalSection> {
                         _contactShortcutTile(
                           icon: Icons.link,
                           label: 'LinkedIn Professional Profile',
-                          value: 'linkedin.com/in/rushikesh-petkar-991560249',
-                          onTap: () => _launchURL('https://linkedin.com/in/rushikesh-petkar-991560249'),
+                          value: 'https://www.linkedin.com/in/rushikesh-petkar-a043bb239/',
+                          onTap: () => _launchURL('https://www.linkedin.com/in/rushikesh-petkar-a043bb239/'),
                         ),
                         const SizedBox(height: 16),
                         _contactShortcutTile(
@@ -184,7 +184,7 @@ class _ContactPortalSectionState extends State<ContactPortalSection> {
                             TextFormField(
                               controller: _nameController,
                               style: const TextStyle(fontSize: 14, color: Colors.white),
-                              decoration: _inputStyle('Your Name', Icons.person_outline),
+                              decoration: _inputStyle('Rushikesh Petkar', Icons.person_outline),
                               validator: (val) => val == null || val.isEmpty ? 'Please specify your identity.' : null,
                             ),
                             const SizedBox(height: 16),

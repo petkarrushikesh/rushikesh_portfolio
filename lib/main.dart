@@ -282,7 +282,7 @@ class _PortfolioShellState extends State<PortfolioShell> {
                       AboutSection(key: _aboutKey),
 
                       // 3. Experience Timeline Section
-                      ExperienceTimelineSection(key: _experienceKey),
+                      ExperienceSection(key: _experienceKey),
 
                       // 4. Interactive Skills Node Graph Wrapping
                       SkillsWrapperSection(key: _skillsKey),

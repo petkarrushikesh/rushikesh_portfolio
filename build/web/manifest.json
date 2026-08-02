@@ -1,11 +1,11 @@
 {
-    "name": "tesla_ui",
-    "short_name": "tesla_ui",
+    "name": "Rushikesh Portfolio",
+    "short_name": "Rushikesh.dev",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#0A0E17",
+    "theme_color": "#3DDC84",
+    "description": "Rushikesh's Portfolio - Flutter Developer & UI Enthusiast",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
