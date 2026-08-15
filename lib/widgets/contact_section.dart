@@ -138,8 +138,8 @@ class _ContactPortalSectionState extends State<ContactPortalSection> {
                         _contactShortcutTile(
                           icon: Icons.link,
                           label: 'LinkedIn Professional Profile',
-                          value: 'linkedin.com/in/rushikesh-petkar-991560249',
-                          onTap: () => _launchURL('https://linkedin.com/in/rushikesh-petkar-991560249'),
+                          value: 'in/rushikesh-petkar-a043bb239',
+                          onTap: () => _launchURL('https://www.linkedin.com/in/rushikesh-petkar-a043bb239/'),
                         ),
                         const SizedBox(height: 16),
                         _contactShortcutTile(

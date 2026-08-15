@@ -87301,7 +87301,7 @@ k.push(A.e1(A.aE(q,A.bW(A.b([B.YS,B.Ag,B.Yp,B.c2,B.YX,B.lU,A.awP(B.If,B.Yn,r.gac
 k=A.b([B.YV,B.c2,B.YU,B.b5,m,B.eb,A.cg(k,B.y,B.r,B.u,0)],l)
 if(p)B.b.V(k,A.b([B.iA,r.Mw()],l))
 k.push(B.Se)
-k.push(A.uC(B.fF,A.b([r.xS(B.Hr,"3+","Production Apps","Taken from first commit to Play Store",B.n),r.xS(B.kH,"BLE / IoT","Hardware Connected","Configure EV chargers over BLE",B.aA),r.xS(B.Hl,"Clean Arch","Modular Scalable","BLoC, Repository, local cache cipher",B.n),r.xS(B.Ht,"B.Tech ECE","Academic Core","Electronics & Communications graduate",B.aA)],l),24,24))
+k.push(A.uC(B.fF,A.b([r.xS(B.Hr,"5+","Production Apps","Taken from first commit to Play Store",B.n),r.xS(B.kH,"BLE / IoT","Hardware Connected","Configure EV chargers over BLE",B.aA),r.xS(B.Hl,"Clean Arch","Modular Scalable","BLoC, Repository, local cache cipher",B.n),r.xS(B.Ht,"B.Tech ECE","Academic Core","Electronics & Communications graduate",B.aA)],l),24,24))
 return A.aE(q,A.bW(k,B.y,B.r,B.u),B.m,o,q,q,q,q,q,new A.a5(n,100,n,100),q,q,q)},
 $S:44}
 A.x3.prototype={
@@ -87417,7 +87417,7 @@ $1(a){return a.length===0?"Please write your query.":null},
 $S:91}
 A.Jr.prototype={
 L(a){var s=null,r=t.s,q=t.p
-return A.aE(s,A.bW(A.b([B.YJ,B.c2,B.YY,B.b5,A.aE(s,s,B.m,s,s,B.Ch,s,4,s,s,s,s,60),B.eb,new A.eq(B.mK,A.bW(A.b([this.a53("Pixelstat eSolutions","Jan 2026 \u2014 Present",A.b(["Owned the complete Flutter application lifecycle\u2014from architecture and feature development to testing, debugging, deployment, and Google Play Store releases.Successfully shipped and maintained 3 production mobile applications, integrating Provider state management, RESTful APIs, Firebase Authentication, Cloud Firestore, BLE communication, and Razorpay payment gateway."],r),!0,"Hyderabad, India","Android Developer"),this.MA("S.Charge Pvt. Ltd.","Dec 2024 \u2014 Jun 2025",A.b(["Designed and compiled an internal BLE-based EV charging station configuration utility in Flutter, drastically accelerating technician debugging pipelines.","Contributed critical UI components and core service bugfixes to the flagship consumer-facing S.Charge EV mobile network app.","Maintained and audited diagnostic sessions, parsing OCPP (Open Charge Point Protocol) transaction logs to isolate client-server handshake conflicts.","Performed physical, safety-critical charger validation testing\u2014verifying insulation integrity, magnetic interference tolerances, and grid voltage dips."],r),!1,!0,"India","Project Trainee \u2014 R&D")],q),B.y,B.r,B.u),s)],q),B.y,B.r,B.u),B.m,s,s,s,s,s,s,B.GH,s,s,s)},
+return A.aE(s,A.bW(A.b([B.YJ,B.c2,B.YY,B.b5,A.aE(s,s,B.m,s,s,B.Ch,s,4,s,s,s,s,60),B.eb,new A.eq(B.mK,A.bW(A.b([this.a53("Pixelstat eSolutions","Jan 2026 \u2014 Present",A.b(["Owned the complete Flutter application lifecycle\u2014from architecture and feature development to testing, debugging, deployment, and Google Play Store releases.Successfully shipped and maintained 5 production mobile applications, integrating Provider state management, RESTful APIs, Firebase Authentication, Cloud Firestore, BLE communication, and Razorpay payment gateway."],r),!0,"Hyderabad, India","Android Developer"),this.MA("S.Charge Pvt. Ltd.","Dec 2024 \u2014 Jun 2025",A.b(["Designed and compiled an internal BLE-based EV charging station configuration utility in Flutter, drastically accelerating technician debugging pipelines.","Contributed critical UI components and core service bugfixes to the flagship consumer-facing S.Charge EV mobile network app.","Maintained and audited diagnostic sessions, parsing OCPP (Open Charge Point Protocol) transaction logs to isolate client-server handshake conflicts.","Performed physical, safety-critical charger validation testing\u2014verifying insulation integrity, magnetic interference tolerances, and grid voltage dips."],r),!1,!0,"India","Project Trainee \u2014 R&D")],q),B.y,B.r,B.u),s)],q),B.y,B.r,B.u),B.m,s,s,s,s,s,s,B.GH,s,s,s)},
 MA(a,b,c,d,e,f,g){var s,r,q=null,p=d?B.n:B.dy,o=A.dJ(B.dz,B.o,3),n=t.p
 o=A.b([A.aE(q,q,B.m,q,q,new A.bg(p,q,o,q,d?A.b([new A.cJ(2,B.bH,A.V(102,B.n.m()>>>16&255,B.n.m()>>>8&255,B.n.m()&255),B.f,8)],t.l):q,q,B.be),q,14,B.Gh,q,q,q,14)],n)
 if(!e)o.push(A.aE(q,q,B.m,B.dB,q,q,q,200,q,q,q,q,2))
@@ -87448,7 +87448,7 @@ g=A.aE(o,A.cg(A.b([new A.o6(1,B.kC,A.aE(o,o,B.m,o,o,B.Cl,o,8,o,o,o,o,8),o),B.iz,
 i=n?B.bN:B.bC
 i=A.by("Rushikesh\nPetkar",o,o,o,A.dS(o,o,B.e,o,o,o,o,o,"Space Grotesk",o,o,n?48:72,o,o,B.N,o,0.95,!0,o,-1.5,o,o,o,o,o,o),i,o)
 h=n?B.bN:B.bC
-h=A.by("I own the Android app lifecycle end-to-end. Shipped 3 commercial apps directly to the Google Play Store\u2014handling BLE synchronization, biometric authentication, global payment gateways, and high-performance clean architecture.",o,o,o,A.dS(o,o,B.O,o,o,o,o,o,o,o,o,n?15:18,o,o,B.op,o,1.6,!0,o,o,o,o,o,o,o,o),h,o)
+h=A.by("I own the Android app lifecycle end-to-end. Shipped 5 commercial apps directly to the Google Play Store\u2014handling BLE synchronization, biometric authentication, global payment gateways, and high-performance clean architecture.",o,o,o,A.dS(o,o,B.O,o,o,o,o,o,o,o,o,n?15:18,o,o,B.op,o,1.6,!0,o,o,o,o,o,o,o,o),h,o)
 s=n?B.fF:B.cp
 r=this.a
 q=A.a1l(B.YM,r.a.d,A.xH(o,o,B.n,o,o,o,o,o,o,B.j,o,o,B.nX,o,new A.c4(A.bJ(12),B.q),o,o,o,o,o))
@@ -93878,7 +93878,7 @@ B.Yn=new A.bu("Download My Resume",null,null,null,null,null,null,null,null)
 B.TY=new A.i(!0,B.S,null,null,null,null,15,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Yo=new A.bu("Dashboard",null,B.TY,null,null,null,null,null,null)
 B.AP=new A.i(!0,B.O,null,null,null,null,14,null,null,null,null,null,1.6,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Yp=new A.bu("I'm a B.Tech graduate in Electronics and Communication who now builds high-performance, real-world Android and Flutter apps for a living. As an Android Developer at Pixelstat eSolutions, I've taken 3 commercial applications from first commit to production releases on the Google Play Store\u2014orchestrating BLE integrations, local secure database layers, payment gateways, and backend endpoints.",null,B.AP,null,null,null,null,null,null)
+B.Yp=new A.bu("I'm a B.Tech graduate in Electronics and Communication who now builds high-performance, real-world Android and Flutter apps for a living. As an Android Developer at Pixelstat eSolutions, I've taken 5 commercial applications from first commit to production releases on the Google Play Store\u2014orchestrating BLE integrations, local secure database layers, payment gateways, and backend endpoints.",null,B.AP,null,null,null,null,null,null)
 B.VQ=new A.i(!0,B.e,null,null,null,null,null,B.N,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Yr=new A.bu("Message encrypted and sent successfully!",null,B.VQ,null,null,null,null,null,null)
 B.E9=new A.x(1,0.2784313725490196,0.3333333333333333,0.4117647058823529,B.h)
